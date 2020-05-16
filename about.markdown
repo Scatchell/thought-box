@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is created by [Anthony Scatchell](https://www.linkedin.com/in/anthony-scatchell-9443693/) - Software Developer from Chicago but currently based in the UK.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My hope is to collect the following here:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. Thoughts about interactions in software teams. I've been a part of many such teams, and through these experiences have had many thoughts about the interactions, personalities, challenges, and successes on these teams.
+2. Thoughts about seemingly spurious relations. I often find myself wondering how learnings from one area of our lives could teach us things about seemingly completely unrelated topics, like what software development teaches us about romantic relationships, or what marketting strategies can teach us about communication with upper management stakeholders.
+3. Thoughts about life. What does it all mean? I dunno. But it's fun to think about.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Basically, I've made this space to collect some thoughts, let's see how it goes.
