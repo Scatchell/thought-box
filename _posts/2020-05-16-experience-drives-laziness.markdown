@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Laziness comes with experience"
+title:  "Experience Drives Laziness"
 date:   2020-05-16 20:40:32 +0100
 categories: laziness experience job jobs memory skill
 ---
