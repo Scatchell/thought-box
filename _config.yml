@@ -29,6 +29,7 @@ url: "http://anthony-s.com" # the base hostname & protocol for your site, e.g. h
 permalink: /:year/:month/:title/
 twitter_username: scatchell
 github_username:  scatchell
+google_analytics: UA-174593759-1
 
 # Build settings
 theme: minima
