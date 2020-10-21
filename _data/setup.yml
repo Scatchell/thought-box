@@ -131,5 +131,7 @@ exclude-pages-from-menus: no
 #
 include-posts-in-menus: yes
 
+# Include categories widget in secondary column
+categories: no
 
 # End of file

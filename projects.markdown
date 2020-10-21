@@ -3,11 +3,15 @@ layout: page
 menuInclude: yes
 menuTopTitle: Projects
 menuSubs:
-- title: Unbiased Search
+- title: "[All Projects]"
   index: 1
+  link: yes
+  url: "/projects"
+- title: Unbiased Search
+  index: 2
   anchorId: unbiased-search
 - title: "What Is COVID 19?"
-  index: 2
+  index: 3
   anchorId: what-is-covid-19
 ---
 
