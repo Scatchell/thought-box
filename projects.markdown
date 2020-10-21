@@ -2,19 +2,25 @@
 layout: page
 menuInclude: yes
 menuTopTitle: Projects
-title: Projects
-permalink: /projects/
+menuSubs:
+- title: Unbiased Search
+  index: 1
+  anchorId: unbiased-search
+- title: "What Is COVID 19?"
+  index: 2
+  anchorId: what-is-covid-19
 ---
 
 This is a space where I will list some side projects I've worked on with some descriptions.
 
-## Unbiased Search
+{:.anchor}
+# Unbiased Search {#unbiased-search}
 
 [https://unbiased-search.herokuapp.com/](https://unbiased-search.herokuapp.com/)
 
 Unbiased search is a tool meant to help you to search for things in a fair, unbiased fashion so people can get the information they want, instead of skewed search results.
 
-### What problem it solves
+### The problem it solves
 
 This experiment came from some discussions I had with friends/family members. People often had an explanation for why they believe a "fact" generating a conversation something along the lines of:
 
@@ -46,3 +52,24 @@ More information can be found here: [https://unbiased-search.herokuapp.com/about
 
 Feedback, thoughts, or interest to help are all welcomed at: [me@anthony-s.com](mailto:me@anthony-s.com)
 
+{:.anchor}
+# What is COVID-19? {#what-is-covid-19}
+
+[https://www.what-is-covid.com/](https://www.what-is-covid.com/) 
+
+"What is COVID" is a website built to try and expose easily consumable, research backed information about the COVID-19 disease and the SARS-CoV-2 virus that causes it.
+
+It uses three different categories of answers to expose information starting in a very simple and consumable way, and getting more detailed and scientific.
+
+### The problem is solves
+
+Public interest in COVID-19 is exploding, and as seems to be the norm these days, this unleashes a black hole of misinformation about the topic across the internet. This not only can confuse people who consume information that is not backed by any legitimate data by leading them to believe in ridiculous claims, but it is doubly injurious to our minds because it can also make us start to lack trust in more legitimately thought out and scientifically backed sources. When people aren't looking at what research logically justifies an argument, there is no difference between the random statements and the painstakingly well-thought-out arguments, meaning people might start to mistrust both sources equally.
+
+A big part of this problem seemed to be that people have two possible sources of information about COVID-19:
+
+1. A random, unbacked tweet or opinion post which it is very difficult to understand the truth value of
+2. A well backed scientific paper that is almost impenetrable to the average reader
+
+What is COVID-19 is an attempt to find a middle grounds between these two by offering different levels of depth to the answer to common COVID questions. A reader can just glance at the quick and simple answer, but if they are interested to learn more details and see what research backs the statement, they can expand the answer further and read a "Detailed" answer or a "Scientific" answer.
+
+More details on the website and the three answer levels [can be found here](https://www.what-is-covid.com/about)
