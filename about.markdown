@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+menuInclude: yes
+menuTopTitle: About
 permalink: /about/
 ---
 

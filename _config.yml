@@ -32,7 +32,7 @@ github_username:  scatchell
 google_analytics: UA-174593759-1
 
 # Build settings
-theme: minima
+theme: classic-jekyll-theme
 plugins:
   - jekyll-feed
 

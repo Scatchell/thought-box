@@ -1,5 +1,7 @@
 ---
 layout: page
+menuInclude: yes
+menuTopTitle: Projects
 title: Projects
 permalink: /projects/
 ---
