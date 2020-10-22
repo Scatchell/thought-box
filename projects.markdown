@@ -65,7 +65,7 @@ Feedback, thoughts, or interest to help are all welcomed at: [me@anthony-s.com](
 
 It uses three different categories of answers to expose information starting in a very simple and consumable way, and getting more detailed and scientific.
 
-### The problem is solves
+### The problem it solves
 
 Public interest in COVID-19 is exploding, and as seems to be the norm these days, this unleashes a black hole of misinformation about the topic across the internet. This not only can confuse people who consume information that is not backed by any legitimate data by leading them to believe in ridiculous claims, but it is doubly injurious to our minds because it can also make us start to lack trust in more legitimately thought out and scientifically backed sources. When people aren't looking at what research logically justifies an argument, there is no difference between the random statements and the painstakingly well-thought-out arguments, meaning people might start to mistrust both sources equally.
 
