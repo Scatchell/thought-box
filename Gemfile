@@ -31,5 +31,5 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # rake required for heroku build
 gem "rake"
-ruby "2.7.0"
+ruby "2.7.3"
 
