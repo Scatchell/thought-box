@@ -1,3 +1,7 @@
 fileignoreconfig:
 - filename: _config.yml
   checksum: b6fb0b2ba6489b51653b654aead366c706c828ff7793efa166f0dff391d4204e
+- filename: _posts/2020-11-30-meeting-hell.markdown
+  checksum: 69db3485c62647ceed0647e41d04c76eda5b143eecd4521da52773bf4c197936
+- filename: meeting-hell-draft.markdown
+  checksum: e4aaebdfa4547f173ee14514699eccabc963a3b299c85f23ce27e7279c15a455

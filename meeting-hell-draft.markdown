@@ -8,7 +8,7 @@ subtitle: Currently just a draft
 
 People have always met.
 
-I'd like to discuss here the different categories of meetings I've noticed over time, but before doing so, I thought it would be good to cover the entire history of human meetings in a few paragraphs. 
+I'd like to discuss here the different categories of meetings I've noticed over time, but before doing so, I thought it would be good to cover the entire history of human meetings in a few paragraphs.
 
 What follows are a few important epoch shifting transitions the history of meetings have taken over time which I'd like describe in this historical appraisal.
 
@@ -69,96 +69,131 @@ I'm not saying every meeting is horrible...but it worries me that the legitimate
 
 Now, I'd like to present to you a comprehensive list of the categories representing the types of meetings we can expect to experience today.
 
-## The "Shhhh....the lord speaketh now" meeting
-
-There are some people who just love to talk. Almost nothing can stop them.
-When these people come to meetings - you are at risk of a lord speaketh now meeting
-Mostly a waste of everyones time because it’s just one person speaking constantly to hear the sound of their own voice
-Similar but not exactly the same is...
-
+## The <span class='meeting-type'>"Shhhh....the lord speaketh now"</span> meeting
 
 > The meeting where on self obsessed person gives a monologue (and calls it a meeting)
 
-## The THIS IS SPARTA! meeting
+There are some people who just love to talk. Almost nothing can stop them.
+
+When these people come to meetings - you are at risk of a "the lord speaketh now" meeting. This is when there is one person speaking, not because they know the most about the subject and are trying to share that knowledge with the rest of the team, but because they relish in constantly hearing the sound of their own voice.
+
+It would be bad enough to be subjected to this alone, but to add insult to injury, it has the additional property of leaving no room for anyone else to say a word. Mere mortals shan't interrupt the lord.
+
+
+## The <span class='meeting-type'>THIS IS SPARTA!</span> meeting
 
 > The meeting where 2-4 people battle for the mantle of "speaking the most"
 
-...leaving no room for anyone else to say anything
+The "THIS IS SPARTA!" meeting is similar to the "lord speaketh now" meeting, with some slight modifications.
 
-What happens when you get 2 or 3 of the big talkers into the same meeting?
-The this is sparta meeting happens
-Out of a group of 15 3 people battle for the mantle of “filling everyone’s ears with the beautiful sound of their voice”
-Different from the lord speaketh now meeting, this one might actually generate some conversation
-And has benefit of only silencing 90% of the participants in a meeting instead of 99%
-Step in right direction
-Now let’s go to a meeting that’s quite the opposite of these….the dreaded….
+What happens when you get 2 or 3 of these big talkers into the same meeting? The THIS IS SPARTA! meeting happens
 
+Out of a group of 15, 3 people battle for the mantle of "filling everyone’s ears with the beautiful sound of their voice" the most.
 
-## The infinite meeting
+Different from the lord speaketh now meeting, this one might actually generate some conversation, and has benefit of only silencing 90% of the participants in a meeting instead of 99%.
+
+It's a step in right direction.
+
+Now let’s move on to a meeting that’s quite the opposite of these. The dreaded...
+
+## The <span class='meeting-type'>infinite</span> meeting
 
 > The meeting that no one knows how to end, but EVERYONE DESPERATELY WANTS TO
 
-This is the meeting that is scheduled for an hour and after 25 minutes everyone knows there is no content left, but no one feels confident enough to say "goodbye"
+This is the meeting that is scheduled for half an hour, and as it comes to a close, everyone knows they want to leave. They know there is nothing left to speak about. They know it is over. But, no one feels confident enough to say "goodbye".
 
-## The "It'll be recorded" meeting
+These meetings can awkwardly continue for another half an hour at times as people ramble and chat about their day. Every once in a while one brave soul will attempt to put a bullet in the head of the meeting with something like
+
+> OK so then I'll go and work on that report...
+
+Where you might get a response that inspires hope of an escape
+
+> Yes that sounds great...
+
+Only to be met with a counter attack as they instead continue to string the rest of us along
+
+> ...and I think there's a lot of value to creating another diagram in the report. You know, I think diagrams really help with....
+
+## The <span class='meeting-type'>"It'll be recorded"</span> meeting
 
 > The meeting that everyone agrees should be recorded. (Obviously this recording is never watched.)
 
-## The awkward silence meeting
+A relatively self explanatory meeting that I feel many of us have experienced heavily with the recent uprise of remote working. You might have the wrong people in the room. You might all have other more important things to do. You might all feel exhausted. You might not have prepared effectively for the meeting.
+
+It doesn't matter. It'll be recorded. All problems are solved as the idle, useless comments of the wrong group of people is digitally documented for the rest of human history to ignore in the hopes that one day, somewhere, somehow the right people will watch it and find some value.
+
+They never do.
+
+## The <span class='meeting-type'>awkward silence</span> meeting
 
 > The meeting where most people are checking their f****** email instead of participating
 
-Pandemic has increased the percentage of these meetings from 15% to approx 90%
-Meeting where you look around at a series of muted black boxes with little white names in them
-Speak for 15 minutes about a problem
-Then say “So given the situation, what do people think about increasing the budget?”
-And then in response, this: --------
-Now we can move onto a similarly useless waste of time...
+In my humble opinion, the pandemic has increased the percentage of these meetings from 15% to approximately 90%.
 
-## The "that was a good discussion..." meeting
+This is the meeting where you look around at a series of muted black boxes with little white names in them. You speak for 15 minutes about a problem, and then say "So given the situation, what do people think about increasing the budget to resolve this issue?"
+
+And then in response, someone says _________.
+
+Eventually another person pipes in saying _________.
+
+After 30 incredibly awkward seconds you generate some noise on your speakers to ensure your audio is working correctly. Everyones microphone can't be broken at the same time, can it? Is it a connection problem?
+
+Unfortunately, it's not. You're just speaking to a group of 10 people checking facebook, their E-Mail, pictures of [things fitting perfectly into other things](https://thingsfittingperfectlyintothings.tumblr.com/), or daydreaming about having super powers.
+
+## The <span class='meeting-type'>"that was a good discussion..."</span> meeting
 
 > The meeting where a group speaks for over an hour about random work related topics accomplishing exactly nothing
 
-This is where you meet to figure out what cloud provider to use and 75 min later you’re still discussing some vulnerability you read about Azure in a blog post last week
-At end have no idea what to actually do about the selection
-At the end, no one wants to say “well, that was a complete waste of time!” so instead they say “OK well that was a good discussion, think we learned a lot there, let’s schedule another meeting….”
-Wasting time twice
+This is where you plan a 20 minute meeting to figure out what software library to use to parse URL's and 75 min later you’re still discussing some irrelevant vulnerability you read about in a blog post last week.
+
+Needless to say, at end have no idea what to actually do about the selection, and because we're part of a polite society no one wants to say "well, that was a complete waste of time" so instead they say "That was a good discussion. I think we learned a lot there, let’s schedule another meeting..."
+
+Thus wasting everyone's time twice.
+
 Speaking of scheduling another meeting...
 
-## The meeting about the previous meeting that was about the other meeting, meeting
+## The <span class='meeting-type'>meeting about the previous meeting that was about the other meeting</span> meeting
 
-> Sometimes a single meeting produces dozens of spawn that run around consuming all available resources. In this way, meetings are like Covid.
+> Sometimes a single meeting produces dozens of spawn that run around consuming all available resources resulting in complete destruction. In this way, meetings are like COVID.
 
-Like a virus - single virus not only kills cell, but makes zombie that creates more to destroy more healthy cells
-Similar: from single source meeting - spawn zombie meetings - go off and waste hundreds of hours throughout org.
-You have a meeting to decide - people are unprepared  - after an hour nothing happened - waiting on this thing or that person
-schedule another
-That’s also missing James - equally important - just in a slightly different way
-There could be dozens before people finally lose interest and stop wasting time.
-People hate these meetings! They don’t want to talk about it anymore
+Meetings are like a virus - a single virus not only kills a cell, but makes zombie cells (industry term, sorry for the jargon) that then create more of the birus to destroy more healthy cells and so on.
+
+Similarly, from single source meeting, one can observe the spawning of dozens of zombie meetings which go off and waste hundreds or thousands of hours throughout an organization.
+
+Take for example this flow:
+
+1. You schedule a 20 minute meeting to decide on a company logo
+2. People are unprepared and ask lots of irrelevant questions to hide the fact they have no idea what's going on
+3. After an hour nothing useful has happened. You are waiting on a design from Bob to make a decision.
+4. You invite everyone, including Bob, and schedule another meeting.
+5. That second meeting is also missing Jamie the woman who OK's company colors. She is equally critical - just in a slightly different way.
+
+And so on. There could be dozens before people finally lose interest and stop wasting time. Lucy eventually picks the logo out of frustration and the customers barely even notice.
+
+People hate these meetings. They don’t want to talk about it anymore.
+
 That brings me to the next meeting...
 
-## The great escape meeting
+## The <span class='meeting-type'>great escape</span> meeting
 
 > The recurring meeting everyone constantly tries to avoid
 
-**Interrupt message**
-This is the often recurring meeting that no one wants to go to - but all think it’s probably a good idea
-The meeting you used to have to literally drag people across the floor rolling in their little office chairs to attend
-The one you have to send a dozen messages to people about to force them to come
-**interrupt** And then there is the...
+This is the (often recurring) meeting that no one wants to go to - but everyone still thinks it’s probably a good idea, so no one suggests it doesn't get scheduled anymore.
 
-## The interrupted meeting
+Where else would you have time to daydream about that hot single looking person you saw in the coffee shop, after all?
+
+This is the meeting you used to have to literally drag people across the floor rolling in their little office chairs to attend. It's the one you have to send a dozen messages to people about to force them to come. It's the one you constantly ask if it's necessary or not only to get the response "I think they're useful!". Mixed messages are hard.
+
+## The <span class='meeting-type'>interrupted</span> meeting
 
 > The meeting where someone is sneak attacked by their children or partner (or Amazon delivery)
-
 
 Not the most horrible
 When kids this is usually adorable
 I’ve seen people leave full on presentations to go get new bluetooth headset
 leaving everyone awkwardly waiting
 
-## The where is this meeting taking place? meeting
+## The <span class='meeting-type'>where is this meeting taking place?</span> meeting
 
 > Hello? Where is everyone? Am I early?
 
@@ -167,7 +202,7 @@ Often after 10 minutes you leave and join another room, only to find at exact mo
 teams vs zoom vs google hangouts
 Team member has solved - start up a zoom call that just says
 
-## The let's get drunk meeting
+## The <span class='meeting-type'>let's get drunk</span> meeting
 
 > This one isn't that bad
 
@@ -176,7 +211,7 @@ Thought it deserved a spot on the list
 Get people to reveal things they otherwise might not
 Next meeting can also be fun....I call it the
 
-## The so, how are your kids? meeting
+## The <span class='meeting-type'>so, how are your kids?</span> meeting
 
 > The meeting that’s taken up 30% by small talk while waiting for a few members who are late
 
@@ -185,7 +220,7 @@ Then what do you do for the first 15 minutes while you wait?
 Just chat - shoot the shit
 Actually learn a lot about people this way - I quite like these meetings
 
-## The passive aggressive meeting
+## The <span class='meeting-type'>passive aggressive</span> meeting
 
 > The meeting where you think you’ll discuss something useful, but actually someone just wants to complain about not being informed about something
 
@@ -194,7 +229,7 @@ Maybe some issue with a process
 Maybe the caller of the meeting is actually upset they weren’t included in something
 Main point: Most of this meeting isn’t about any useful topic, it’s about how someone is pissed off
 
-## The all or nothing meeting
+## The <span class='meeting-type'>all or nothing</span> meeting
 
 > The meeting that goes on for the fully scheduled 60 minutes when it’s actually complete in less than 15.
 
@@ -202,6 +237,6 @@ A meeting about ‘where are my keys’
 About 6 minutes in everyone realizes they’re in your jacket pocket
 But there’s 54 minutes left - unbounded potential
 How could you waste all that time, where you could be talking?
-So they start saying shit like “sure they might be in the jacket but first of all….really...what is a key” - “why do humans live in houses?”
+So they start saying shit like "sure they might be in the jacket but first of all….really...what is a key" - "why do humans live in houses?"
 54 minutes later discussing a nietzsche passage
-Someone is like “Ohhh we’ve run over we’ll have to schedule another meeting”
+Someone is like "Ohhh we’ve run over we’ll have to schedule another meeting"
