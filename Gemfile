@@ -29,7 +29,9 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-# rake required for heroku build
-gem "rake"
+gem 'sinatra'
+gem 'thin'
+gem 'RedCloth'
+
 ruby "2.7.0"
 
