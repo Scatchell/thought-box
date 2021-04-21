@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Laziness comes with experience"
+subtitle: "Do we get lazier as we get better at a skill?"
 tags: [laziness, experience, job, jobs, memory, skill]
 ---
 
