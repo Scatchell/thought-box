@@ -1,23 +1,12 @@
 ---
 layout: page
-menuInclude: yes
-menuTopTitle: Projects
-menuSubs:
-- title: "[All Projects]"
-  index: 1
-  link: yes
-  url: "/projects"
-- title: Unbiased Search
-  index: 2
-  anchorId: unbiased-search
-- title: "What Is COVID 19?"
-  index: 3
-  anchorId: what-is-covid-19
+title: Projects
+subtitle: What useful things might you find here?
 ---
 
-This is a space where I will list some side projects I've worked on with some descriptions.
+This is a space where I will list side projects I've worked on with some descriptions.
 
-{:.anchor}
+<a name="unbiased-search"></a>
 # Unbiased Search {#unbiased-search}
 
 [https://unbiased-search.herokuapp.com/](https://unbiased-search.herokuapp.com/)
@@ -56,7 +45,7 @@ More information can be found here: [https://unbiased-search.herokuapp.com/about
 
 Feedback, thoughts, or interest to help are all welcomed at: [me@anthony-s.com](mailto:me@anthony-s.com)
 
-{:.anchor}
+<a name="what-is-covid"></a>
 # What is COVID-19? {#what-is-covid-19}
 
 [https://www.what-is-covid.com/](https://www.what-is-covid.com/) 

@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: _config.yml
+  checksum: b6fb0b2ba6489b51653b654aead366c706c828ff7793efa166f0dff391d4204e

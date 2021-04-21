@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About
-menuInclude: yes
-menuTopTitle: About
-permalink: /about/
+subtitle: What you will find here
 ---
 
 This site is created by [Anthony Scatchell](https://www.linkedin.com/in/anthony-scatchell-9443693/) - Software Developer from Chicago but currently based in the UK.
