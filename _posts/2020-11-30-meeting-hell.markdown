@@ -184,61 +184,79 @@ This is the (often recurring) meeting that no one wants to go to - but everyone 
 
 Where else would you have time to daydream about that hot single looking person you saw in the coffee shop, after all?
 
-This is the meeting you used to have to literally drag people across the floor rolling in their little office chairs to attend. It's the one you have to send a dozen messages to people about to force them to come. It's the one you constantly ask if it's necessary or not only to get the response "I think they're useful!". Mixed messages are hard.
+This is the meeting you used to have to literally drag people across the floor (rolling them in their little office chairs) to attend. It's the one you have to send a dozen messages to people about to force them to come. It's the one you constantly feel the need to ask if it's necessary or not only to get the response "I think they're useful!".
+
+Mixed messages are hard.
 
 ## The <span class='meeting-type'>interrupted</span> meeting
 
 > The meeting where someone is sneak attacked by their children or partner (or Amazon delivery)
 
-Not the most horrible
-When kids this is usually adorable
-I’ve seen people leave full on presentations to go get new bluetooth headset
-leaving everyone awkwardly waiting
+Reserved for the remote working world we currently live in, the <span class='meeting-type'>interrupted</span> meetings are not the most horrible. As a matter of fact, when involving kids, they're usually pretty adorable!
+
+However, it's not only cute kids that disrupt meetings. It's often a partner who wishes to clean the room, or ask some awkward question oblivious to the fact that the entire accounting team is also listening.
+
+The delivery is the most common of these. During the pandemic, I can only assume people are getting oxygen delivered to the homes daily with the amount of times someone has to disappear to answer the door.
+
+I’ve seen people leave full on presentations that THEY ARE HOSTING to go get a new bluetooth headset at the front door. Everyone else just left awkwardly waiting and wondering whether they have to hazard small talk to fill the gaps.
 
 ## The <span class='meeting-type'>where is this meeting taking place?</span> meeting
 
 > Hello? Where is everyone? Am I early?
 
-There are dozens of channels, rooms, zoom ids - far too easy to get confused
-Often after 10 minutes you leave and join another room, only to find at exact moment everyone has left to join the one you were in
-teams vs zoom vs google hangouts
-Team member has solved - start up a zoom call that just says
+There are dozens of channels, video conferencing tools, rooms, zoom ids, etc. - it's far too easy to get confused.
+
+
+Often, after waiting five minutes or so, you will leave and join "the other" room, only to find at that exact moment everyone has left to join the one you were previously in. It's like watching a slapstick humor skit.
+
+I am concerned this possibly says something horrible about my character, but I don't mind these meetings that much, because I find it particularly amusing when people are incapable of finding each other online. -shrug-
 
 ## The <span class='meeting-type'>let's get drunk</span> meeting
 
 > This one isn't that bad
 
-Makes a meeting a lot more interesting
-Thought it deserved a spot on the list
-Get people to reveal things they otherwise might not
-Next meeting can also be fun....I call it the
+This is the "meeting" where people join to have a few drinks and chat about something. It makes a meeting a lot more interesting.
+
+People loosen up and spread important gossip. They make agreements and friendships they never would have in a 'real meeting' environment. Sometimes they reveal important and useful things that they otherwise might not have.
+
+This meeting is not horrible....it's actually pretty great. I thought it deserved a spot on the list.
+
+The next meeting can also be fun....
 
 ## The <span class='meeting-type'>so, how are your kids?</span> meeting
 
 > The meeting that’s taken up 30% by small talk while waiting for a few members who are late
 
-Expect 10 people and 6 arrive on time, and you start the ‘grace period’
-Then what do you do for the first 15 minutes while you wait?
-Just chat - shoot the shit
-Actually learn a lot about people this way - I quite like these meetings
+Meetings often start with a bit of small talk, but you only really have a chance to get into the weeds of someones personal life and situation when the <span class='meeting-type'>so, how are your kids?</span> meeting happens.
+
+This is when you expect 10 people and about 6 arrive on time, then you start the ‘grace period’.
+
+So, what do you do for the first 15 minutes while you wait? Well, to avoid the awkwardness of utter silence, you shoot the shit.
+
+I quite like these meetings. Even though it's a bit wasteful of everyones time, you actually learn a lot about people this way and can understand more about their hobbies, lives, and why they might make certain work related decisions.
 
 ## The <span class='meeting-type'>passive aggressive</span> meeting
 
 > The meeting where you think you’ll discuss something useful, but actually someone just wants to complain about not being informed about something
 
-Maybe some political grudge
-Maybe some issue with a process
-Maybe the caller of the meeting is actually upset they weren’t included in something
-Main point: Most of this meeting isn’t about any useful topic, it’s about how someone is pissed off
+These aren't extremely common in my experience but I've definitely noticed them several times.
+
+Maybe it's a political grudge, maybe an issue with a process, or maybe the caller of the meeting is actually upset they weren’t included in something previously and called this one for "meeting revenge."
+
+Whatever the reason, the main point of this meeting is not about any useful topic. Instead, it’s about how someone is pissed off. All they want to do is call someone out in front of a group, or awkwardly prove someone wrong.
+
+Whatever drives these meetings are representative of the worst parts of humanity, and they should never exist.
 
 ## The <span class='meeting-type'>all or nothing</span> meeting
 
 > The meeting that goes on for the fully scheduled 60 minutes when it’s actually complete in less than 15.
 
-A meeting about ‘where are my keys’
-About 6 minutes in everyone realizes they’re in your jacket pocket
-But there’s 54 minutes left - unbounded potential
-How could you waste all that time, where you could be talking?
-So they start saying shit like "sure they might be in the jacket but first of all….really...what is a key" - "why do humans live in houses?"
-54 minutes later discussing a nietzsche passage
-Someone is like "Ohhh we’ve run over we’ll have to schedule another meeting"
+Let's take an example to explain this one.
+
+I call a meeting with the agenda ‘where are my keys’.
+
+About 6 minutes in, everyone realizes without a doubt they’re in my jacket pocket. But...there’s 54 minutes left! Unbounded potential! How could you end the meeting and waste all that time going back to actual work, when you could be talking more?!
+
+So, people start saying shit like "Sure, they might be in the jacket pocket, but first of all...when you really think about it...what IS a key? And why do humans live in houses? Should we even be locking our doors in the first place if any valid human society should be based on the premise of trust?"
+
+54 minutes later, you're discussing a nietzsche passage when someone politely says "Oh no...it looks like we’ve run over! Let's schedule another meeting to finish this conversation early next week."
