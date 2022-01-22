@@ -68,3 +68,18 @@ The "What is COVID-19" project is an attempt to find a middle grounds between th
 The answers have been researched by a small team of science researchers, and are dated to avoid misleading information that has gotten too old to be valid anymore.
 
 More details on the website and the three answer levels [can be found here](https://www.what-is-covid.com/about)
+
+<a name="animatype"></a>
+# Animatype {#animatype}
+
+[http://animatype.herokuapp.com](http://animatype.herokuapp.com)
+
+Animatype is a project that experiments with a different method of communication. It's a way to send not just a message, but an experience.
+
+Animatype gives you the ability to send the **process** of you creating a message, not just the final message itself. When you type "Hey, how are things lately at your new Job?" it will not send only the message, but instead replay a recording of each character you typed exactly when you typed it. Every typo you make (and the following correction), every decision to go back and add a new sentence, or change some formatting. Everything is captured.
+
+This experiment was driven by frustration around short messages making bold statements often dropped with little to no context on social media services. It got me thinking...if tools like twitter make it intentionally difficult to add context by contraining the number of characters allowed in a message, what would the opposite of that be? I came to the conclusion that on the other end of the spectrum is a tool that makes it very difficult for you to not send all the context, because it captures as much information about creating the message as possible.
+
+I believe animatype is a more personal way to communicate, making the reader feel as if they were sitting next to you while you are composing them a message instead of simply reading the final production. I also believe it captures information that is often lost, and which we feel is unimportant, like the fact that you changed the phrasing three times on a certain sentence, indicating it's important to you and difficult to communicate.
+
+Try it out!
