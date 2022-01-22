@@ -56,13 +56,15 @@ It uses three different categories of answers to expose information starting in 
 
 ### The problem it solves
 
-Public interest in COVID-19 is exploding, and as seems to be the norm these days, this unleashes a black hole of misinformation about the topic across the internet. This not only can confuse people who consume information that is not backed by any legitimate data by leading them to believe in ridiculous claims, but it is doubly injurious to our minds because it can also make us start to lack trust in more legitimately thought out and scientifically backed sources. When people aren't looking at what research logically justifies an argument, there is no difference between the random statements and the painstakingly well-thought-out arguments, meaning people might start to mistrust both sources equally.
+Public interest in COVID-19 has exploded, and (as it seems might be the norm these days), this has unleashed a black hole of misinformation and half baked thoughts about the topic across the internet. This not only can confuse people who consume information that is not backed by legitimate data sources by leading them to believe in disingenuous claims, but it may be doubly injurious to our minds by provoking a lack of trust in prudent, scientifically backed sources. When people don't pursue claims to discover what research logically justifies (or doesn't) an argument, there is no difference between random opinionated statements, and painstakingly well-thought-out arguments. This may lead consumers of information to begin mistrusting both these categories of sources equally.
 
 A big part of this problem seemed to be that people have two possible sources of information about COVID-19:
 
-1. A random, unbacked tweet or opinion post which it is very difficult to understand the truth value of
-2. A well backed scientific paper that is almost impenetrable to the average reader
+1. A tweet or opinion post which does not list the source of its claims, making it very difficult to determine its legitimacy
+2. A well backed scientific paper that, though well explained, is almost impenetrable to the average reader
 
-What is COVID-19 is an attempt to find a middle grounds between these two by offering different levels of depth to the answer to common COVID questions. A reader can just glance at the quick and simple answer, but if they are interested to learn more details and see what research backs the statement, they can expand the answer further and read a "Detailed" answer or a "Scientific" answer.
+The "What is COVID-19" project is an attempt to find a middle grounds between these two by offering different levels of depth to the answers of common COVID questions. A reader can just glance at the quick and simple answer, but if they are interested to learn more details and see what research backs the statement, they can expand the answer further and read a "Detailed" answer, or a "Scientific" answer - each containing references to the resources used to gather data for that answer.
+
+The answers have been researched by a small team of science researchers, and are dated to avoid misleading information that has gotten too old to be valid anymore.
 
 More details on the website and the three answer levels [can be found here](https://www.what-is-covid.com/about)
