@@ -3,7 +3,7 @@
   "description": "A personal blog used to share thoughts",
   "website": "http://anthony-s.com",
   "buildpacks": [
-    {"url": "https://github.com/heroku/heroku-buildpack-static"},
+    {"url": "heroku-community/nginx"},
     {"url": "heroku/ruby"}
   ],
   "stack":"heroku-22"
