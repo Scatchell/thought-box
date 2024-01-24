@@ -52,8 +52,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anthony-s.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:title/
-google_analytics:
-  measurement_id: 424573187
+#google_analytics:
+#  measurement_id: 424573187
 rss-description: A box of interesting thoughts
 url-pretty: "anthony-s.com"
 head-extra: "head-favicons.html"
