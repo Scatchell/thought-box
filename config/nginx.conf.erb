@@ -17,9 +17,9 @@ http {
   server_tokens off;
 
 
-  access_log /dev/stdout;
+  #access_log logs/nginx/access.log;
 
-  error_log /dev/stderr;
+  #error_log logs/nginx/error.log;
 
 
   include mime.types;
